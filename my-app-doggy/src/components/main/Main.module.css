@@ -1,0 +1,55 @@
+.divContainerMain {
+  width: 1200px;
+  height: 786px;
+  background-image: linear-gradient(
+    #eec8bd,
+    #efc7bd,
+    #f2cdc4,
+    #eec9bf,
+    #ecc7be,
+    #edc7be,
+    #edc8bf
+  );
+}
+
+.paragOne {
+  color: #4c4c4b;
+  text-align: center;
+  font-family: Cormorant;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.paragTwo {
+  color: #4c4c4b;
+  text-align: center;
+  font-family: Cormorant;
+  font-size: 63px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.buttonBook {
+  border: none;
+  border-radius: 30px;
+  background: #e89b93;
+  display: flex;
+  width: 218px;
+  height: 49.412px;
+  padding: 10px 16px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  color: #fff;
+  text-align: center;
+  font-family: Cormorant;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  position: absolute;
+  left: 140px;
+}

@@ -1,0 +1,71 @@
+.imgSpaLogo {
+  width: 120px;
+  height: 70px;
+  padding-top: 10px;
+}
+
+.logoName {
+  color: #4c4c4b;
+  font-family: Tangerine;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  top: -18px;
+  right: 7px;
+}
+
+.divContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.firstAStyle {
+  text-decoration-color: #f3ded7;
+  text-decoration-thickness: 5px;
+  background-color: white;
+  margin: 10px;
+  color: #4c4c4b;
+  font-family: Cormorant;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.aStyle {
+  text-decoration: none;
+  margin: 15px;
+  color: #4c4c4b;
+  font-family: Cormorant;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.divContainerUserBagSearch {
+  display: flex;
+}
+
+.iconBagUserSearch {
+  margin: 0 10px 0 10px;
+  width: 40px;
+  height: 40px;
+  color: #4C4C4B;
+}
+
+.divCircleThree {
+  width: 20px;
+  height: 20px;
+  font-size: 15px;
+  text-align: center;
+  background: #f3ded7;
+  border-radius: 30px;
+  position: relative;
+  top: -10px;
+  left: 110px;
+  color: white;
+}
