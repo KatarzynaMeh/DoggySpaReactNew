@@ -20,6 +20,7 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  position: absolute;
 }
 
 .paragTwo {
@@ -30,6 +31,7 @@
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  position: absolute;
 }
 
 .buttonBook {
@@ -51,5 +53,4 @@
   font-weight: 700;
   line-height: 21px;
   position: absolute;
-  left: 140px;
 }
